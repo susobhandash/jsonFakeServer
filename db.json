@@ -1,0 +1,47 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "usertype": "admin"
+        },
+        {
+            "id": 2,
+            "username": "customer",
+            "password": "customer",
+            "usertype": "customer"
+        },
+        {
+            "id": 3,
+            "username": "enabler",
+            "password": "enabler",
+            "usertype": "enabler"
+        },
+    ],
+    "customer_profile": [
+        {
+            "id": 1,
+            "name": "Susobhan Dash",
+            "email": "susobhan.dash@gmail.com",
+            "phone": "1234567890"
+        }
+    ],
+    "enabler_profile": [
+        {
+            "id": 1,
+            "name": "Lagnajit Parida",
+            "email": "lagnajit.parida@gmail.com",
+            "phone": "1234567890"
+        }
+    ],
+    "service_requests": [
+        {
+            "id": 1,
+            "customer_name": "Susobhan Dash",
+            "enabler_name": "Lagnajit Parida",
+            "service_type": 2,
+            "service_req_date": "10/07/2020",
+        }
+    ],
+}
