@@ -19,19 +19,34 @@
         "usertype": "customer"
       },
       {
-        "id": "3",
+        "id": "4",
         "username": "susobhan",
         "password": "susobhan",
         "usertype": "customer"
+      },
+      {
+        "id": "5",
+        "username": "lagna",
+        "password": "lagna",
+        "usertype": "enabler"
       }
     ],
-    "customers": [
+    "customersProfile": [
         {
           "id": "1",
           "name": "Susobhan Dash",
           "email": "susobhan.dash@gmail.com",
           "phone": "1234567890",
           "username": "susobhan"
+        }
+    ],
+    "enablerProfile": [
+        {
+          "id": "1",
+          "name": "Lagnajit Parida",
+          "email": "lagnajit.parida@gmail.com",
+          "phone": "0987654321",
+          "username": "lagna"
         }
     ]
   }
