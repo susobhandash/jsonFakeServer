@@ -31,7 +31,7 @@
         "usertype": "enabler"
       }
     ],
-    "customersProfile": [
+    "customerProfile": [
         {
           "id": "1",
           "name": "Susobhan Dash",
@@ -47,6 +47,17 @@
           "email": "lagnajit.parida@gmail.com",
           "phone": "0987654321",
           "username": "lagna"
+        }
+    ],
+    "serviceRequests": [
+        {
+          "id": "1",
+          "customer_name": "Susobhan Dash",
+          "enabler_name": "Lagnajit Parida",
+          "customer_username": "susobhan",
+          "enabler_username": "lagna",
+          "service_type": 2,
+          "service_req_date": "10/07/2020"
         }
     ]
   }
