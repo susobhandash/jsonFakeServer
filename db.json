@@ -29,6 +29,12 @@
         "username": "lagna",
         "password": "lagna",
         "usertype": "enabler"
+      },
+      {
+        "id": "6",
+        "username": "ankit",
+        "password": "ankit",
+        "usertype": "customer"
       }
     ],
     "customerProfile": [
@@ -38,6 +44,13 @@
           "email": "susobhan.dash@gmail.com",
           "phone": "1234567890",
           "username": "susobhan"
+        },
+        {
+          "id": "2",
+          "name": "Ankit Patnaik",
+          "email": "ankit.patnaik@gmail.com",
+          "phone": "1111222233",
+          "username": "ankit"
         }
     ],
     "enablerProfile": [
