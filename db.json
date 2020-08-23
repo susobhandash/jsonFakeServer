@@ -17,7 +17,7 @@
             "username": "enabler",
             "password": "enabler",
             "usertype": "enabler"
-        },
+        }
     ],
     "customer_profile": [
         {
@@ -41,7 +41,7 @@
             "customer_name": "Susobhan Dash",
             "enabler_name": "Lagnajit Parida",
             "service_type": 2,
-            "service_req_date": "10/07/2020",
+            "service_req_date": "10/07/2020"
         }
     ]
 }
