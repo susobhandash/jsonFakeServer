@@ -1,7 +1,7 @@
 {
     "positions": [
       {
-        ""id"": "1",
+        "id": "1",
         "type": "Development",
         "records": [
           { "value": "1", "label": "Associate Software Engineer" },
@@ -14,7 +14,7 @@
         ]
       },
       {
-        ""id"": "2",
+        "id": "2",
         "type": "QA",
         "records": [
           { "value": "1", "label": "Associate QA Engineer" },
@@ -27,22 +27,22 @@
         ]
       },
       {
-        ""id"": "3",
+        "id": "3",
         "type": "Management",
         "records": [
           { "value": "1", "label": "Manager" },
           { "value": "2", "label": "Senior Manager" },
           { "value": "3", "label": "Director" },
-          { "value": "4", "label": "Vice Pres"id"ent" },
+          { "value": "4", "label": "Vice President" },
           { "value": "5", "label": "Managing Director" }
         ]
       }
     ],
     "projects": [
-      { ""id"": "1", ""name"": "Radius Moderization", "label": "Radius Moderization Project", "code": "RMP" },
-      { ""id"": "2", ""name"": "Vision", "label": "PrintSmith Vision", "code": "PSV" },
-      { ""id"": "3", ""name"": "Pace", "label": "PACE", "code": "PACE" },
-      { ""id"": "4", ""name"": "Rogo", "label": "PrintFlow", "code": "PF" }
+      { "id": "1", "name": "Radius Moderization", "label": "Radius Moderization Project", "code": "RMP" },
+      { "id": "2", "name": "Vision", "label": "PrintSmith Vision", "code": "PSV" },
+      { "id": "3", "name": "Pace", "label": "PACE", "code": "PACE" },
+      { "id": "4", "name": "Rogo", "label": "PrintFlow", "code": "PF" }
     ],
     "skills": [
       { "name": "HTML", "id": "html" },
@@ -60,5 +60,15 @@
       { "name": "Algorithms", "id": "algo" },
       { "name": "ML", "id": "ml" },
       { "name": "AI", "id": "ai" }
+    ],
+    "employees": [
+      { "name": "Raghavendra Sindol", "id": "21029", "role": "mgr", "project": "PSV" },
+      { "name": "Narayyan Bathi", "id": "34243", "role": "arcmgr", "project": "PACE" },
+      { "name": "Indranil Banerjee", "id": "98443", "role": "mgr", "project": "RMP" },
+      { "name": "Kiran Shankar", "id": "9876", "role": "mgr", "project": "PF" },
+      { "name": "Raghavendra Sindol", "id": "21029", "role": "arc", "project": "PSV" },
+      { "name": "Praneesh Chouzan", "id": "12345", "role": "arc", "project": "RMP" },
+      { "name": "Raghavendra Reddy N", "id": "23456", "role": "arc", "project": "PF" },
+      { "name": "Madhu Bhat P", "id": "78644", "role": "arc", "project": "PACE" }
     ]
   }
