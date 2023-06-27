@@ -1,76 +1,17 @@
 {
-    "users": [
+    "positions": [
       {
         "id": "1",
-        "username": "admin",
-        "password": "admin",
-        "usertype": "admin"
-      },
-      {
-        "id": "2",
-        "username": "enabler",
-        "password": "enabler",
-        "usertype": "enabler"
-      },
-      {
-        "id": "3",
-        "username": "customer",
-        "password": "customer",
-        "usertype": "customer"
-      },
-      {
-        "id": "4",
-        "username": "susobhan",
-        "password": "susobhan",
-        "usertype": "customer"
-      },
-      {
-        "id": "5",
-        "username": "lagna",
-        "password": "lagna",
-        "usertype": "enabler"
-      },
-      {
-        "id": "6",
-        "username": "ankit",
-        "password": "ankit",
-        "usertype": "customer"
+        "type": "Development",
+        "records": [
+          { "value": "ase", "label": "Associate Software Engineer" },
+          { "value": "se", "label": "Software Engineer" },
+          { "value": "sse", "label": "Senior Software Engineer" },
+          { "value": "ste", "label": "Staff Engineer" },
+          { "value": "pe", "label": "Principal Engineer" },
+          { "value": "asarc", "label": "Associate Architect" },
+          { "value": "arc", "label": "Architect" }
+        ]
       }
-    ],
-    "customerProfile": [
-        {
-          "id": "1",
-          "name": "Susobhan Dash",
-          "email": "susobhan.dash@gmail.com",
-          "phone": "1234567890",
-          "username": "susobhan"
-        },
-        {
-          "id": "2",
-          "name": "Ankit Patnaik",
-          "email": "ankit.patnaik@gmail.com",
-          "phone": "1111222233",
-          "username": "ankit"
-        }
-    ],
-    "enablerProfile": [
-        {
-          "id": "1",
-          "name": "Lagnajit Parida",
-          "email": "lagnajit.parida@gmail.com",
-          "phone": "0987654321",
-          "username": "lagna"
-        }
-    ],
-    "serviceRequests": [
-        {
-          "id": "1",
-          "customer_name": "Susobhan Dash",
-          "enabler_name": "Lagnajit Parida",
-          "customer_username": "susobhan",
-          "enabler_username": "lagna",
-          "service_type": 2,
-          "service_req_date": "10/07/2020"
-        }
     ]
   }
