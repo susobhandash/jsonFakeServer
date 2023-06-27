@@ -1,7 +1,7 @@
 {
     "positions": [
       {
-        "id": "1",
+        ""id"": "1",
         "type": "Development",
         "records": [
           { "value": "1", "label": "Associate Software Engineer" },
@@ -14,7 +14,7 @@
         ]
       },
       {
-        "id": "2",
+        ""id"": "2",
         "type": "QA",
         "records": [
           { "value": "1", "label": "Associate QA Engineer" },
@@ -27,21 +27,38 @@
         ]
       },
       {
-        "id": "3",
+        ""id"": "3",
         "type": "Management",
         "records": [
           { "value": "1", "label": "Manager" },
           { "value": "2", "label": "Senior Manager" },
           { "value": "3", "label": "Director" },
-          { "value": "4", "label": "Vice President" },
+          { "value": "4", "label": "Vice Pres"id"ent" },
           { "value": "5", "label": "Managing Director" }
         ]
       }
     ],
     "projects": [
-      { "id": "1", "name": "Radius Moderization", "label": "Radius Moderization Project", "code": "RMP" },
-      { "id": "2", "name": "Vision", "label": "PrintSmith Vision", "code": "PSV" },
-      { "id": "3", "name": "Pace", "label": "PACE", "code": "PACE" },
-      { "id": "4", "name": "Rogo", "label": "PrintFlow", "code": "PF" }
+      { ""id"": "1", ""name"": "Radius Moderization", "label": "Radius Moderization Project", "code": "RMP" },
+      { ""id"": "2", ""name"": "Vision", "label": "PrintSmith Vision", "code": "PSV" },
+      { ""id"": "3", ""name"": "Pace", "label": "PACE", "code": "PACE" },
+      { ""id"": "4", ""name"": "Rogo", "label": "PrintFlow", "code": "PF" }
+    ],
+    "skills": [
+      { "name": "HTML", "id": "html" },
+      { "name": "CSS", "id": "css" },
+      { "name": "Javascript", "id": "js" },
+      { "name": "Java", "id": "java" },
+      { "name": ".Net", "id": "dotnet" },
+      { "name": "C#", "id": "csharp" },
+      { "name": "C++", "id": "cplusplus" },
+      { "name": "Angular JS", "id": "angular" },
+      { "name": "React JS", "id": "react" },
+      { "name": "Progress", "id": "progress" },
+      { "name": "SQL", "id": "sql" },
+      { "name": "Postgres", "id": "postgres" },
+      { "name": "Algorithms", "id": "algo" },
+      { "name": "ML", "id": "ml" },
+      { "name": "AI", "id": "ai" }
     ]
   }
