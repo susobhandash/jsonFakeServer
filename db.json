@@ -63,7 +63,7 @@
     ],
     "employees": [
       { "name": "Raghavendra Sindol", "id": "21029", "role": "mgr", "project": "PSV" },
-      { "name": "Narayyan Bathi", "id": "34243", "role": "arcmgr", "project": "PACE" },
+      { "name": "Narayyan Bathi", "id": "34243", "role": "mgr", "project": "PACE" },
       { "name": "Indranil Banerjee", "id": "98443", "role": "mgr", "project": "RMP" },
       { "name": "Kiran Shankar", "id": "9876", "role": "mgr", "project": "PF" },
       { "name": "Raghavendra Sindol", "id": "21029", "role": "arc", "project": "PSV" },
